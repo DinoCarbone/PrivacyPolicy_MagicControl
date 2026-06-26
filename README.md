@@ -1,1 +1,1 @@
-# PrivacyPolicy_MagicControl
+# PrivacyPolicy MagicControl
