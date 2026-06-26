@@ -17,7 +17,7 @@ The Game does **not** require you to create an account or log in. We do **not** 
 
 ## Information Stored on Your Device
 
-The Game saves your progress and settings locally on your device using Android **PlayerPrefs** (local key-value storage). This includes data such as game progress, scores, and in-game preferences.
+The Game saves your progress and settings locally on your device. This includes data such as game progress, scores, and in-game preferences.
 
 This data:
 
@@ -81,7 +81,7 @@ We do not sell your data. Data is shared only with the third-party service provi
 
 ## Data Retention
 
-- **Local data (PlayerPrefs):** retained on your device until you uninstall the Game or clear its data.
+- **Local data:** retained on your device until you uninstall the Game or clear its data.
 - **Third-party data:** retained according to the retention policies of AppMetrica and Facebook SDK. Please refer to their privacy policies linked above.
 
 ---
